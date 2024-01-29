@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[core]
+	safecrlf = false
+	whitespace = cr-at-eol
+[user]
+	name = jaw3l
+	email = 16852455+jaw3l@users.noreply.github.com
+	signingKey = C45802E993032808
